@@ -26,10 +26,4 @@
 [
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-
-](https://t.me/getthefckoutofheree)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-](https://github.com/Koustubh12345)
+(https://t.me/getthefckoutofheree)
