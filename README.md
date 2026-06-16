@@ -13,8 +13,6 @@
 
 ---
 
-## 🔥 Who Am I
-
 ```javascript
 const TenSei = {
     builds:  ["Android Apps", "Telegram Bots", "Auto Scripts"],
