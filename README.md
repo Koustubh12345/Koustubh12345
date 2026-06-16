@@ -1,19 +1,3 @@
-# ANOTHER DAY, ANOTHER MOD SHIPPED ⚡
-
-Hey. I'm Koustubh — CS undergrad by day, Android modder by night.  
-I port ROMs, break systems on purpose, and occasionally write Python that actually works.  
-Based in Belagavi, India. Building in public. Slacking off professionally.
-
----
-
-### 🔧 WHAT I'VE BEEN UP TO
-
-- 🚀 Released [TenSei Mods](https://github.com/Koustubh12345/TenSei-Mods) — root-based system UI mods for OPlus/ColorOS devices
-- 🛠️ Fixed power button delay on Android 16 HWC ports — [see the fix](https://github.com/Koustubh12345/Power-button-delay-fix-for-hwc-ports)
-- 📱 Modding OnePlus Launcher with custom dock blur & premium feature unlocks
-
----
-
 ### 🧰 TOOLS I USE
 
 
