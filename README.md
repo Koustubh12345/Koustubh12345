@@ -17,9 +17,9 @@
 
 ```javascript
 const TenSei = {
-    builds: ["Android Apps", "Telegram Bots", "Auto Scripts"],
-    mods: ["Any Android App", "System UI", "Launchers", "Custom ROMs"],
-    fixes: ["ROM bugs", "HWC issues", "Kernel patches", "Display stack"],
-    tools: ["Python", "Java", "Bash", "Smali", "JavaScript", "C++"],
-    motto: "If it has a system, it can be modded."
+    builds:  ["Android Apps", "Telegram Bots", "Auto Scripts"],
+    mods:    ["System UI", "Launchers", "Any APK", "Custom ROMs"],
+    fixes:   ["ROM Bugs", "Kernel Patches", "HWC Issues"],
+    stack:   ["Python", "Java", "Kotlin", "Bash", "Smali", "JS", "C++"],
+    motto:   "If it has a system, it can be modded."
 };
