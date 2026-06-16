@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="280" src="https://raw.githubusercontent.com/Koustubh12345/Koustubh12345/main/luffy.gif"/>
+  <img width="280" src="https://raw.githubusercontent.com/Koustubh12345/Koustubh12345/main/tensei.gif"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=89DCEB&center=true&repeat=false&width=500&height=60&lines=Hey%2C+I'm+TenSei." alt="Typing SVG"/>
