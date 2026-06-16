@@ -21,5 +21,4 @@ const TenSei = {
     mods:    ["System UI", "Launchers", "Any APK", "Custom ROMs"],
     fixes:   ["ROM Bugs", "Kernel Patches", "HWC Issues"],
     stack:   ["Python", "Java", "Kotlin", "Bash", "Smali", "JS", "C++"],
-    motto:   "If it has a system, it can be modded."
 };
