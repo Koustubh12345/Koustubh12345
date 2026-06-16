@@ -2,7 +2,7 @@
   <img width="280" src="https://raw.githubusercontent.com/Koustubh12345/Koustubh12345/main/luffy.gif"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=89DCEB&center=true&repeat=false&width=600&height=60&lines=Hey%2C+I'm+TenSei+%E2%80%94+I+mod+the+unmoddable." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=89DCEB&center=true&repeat=false&width=500&height=60&lines=Hey%2C+I'm+TenSei." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -17,16 +17,9 @@
 
 ```javascript
 const TenSei = {
-    aka: "Koustubh Gaikwad",
-    status: "Final-year CS undergrad @ VTU, Belagavi",
-    by_day: "Writing code that barely works",
-    by_night: "Porting ROMs and modding things that say 'do not modify'",
-    languages: ["Python", "Java", "Bash", "Smali", "JavaScript", "C++"],
-    currently: {
-        porting: "ColorOS 16 → Redmi Note 10 Pro (Sweet / SD732G)",
-        building: ["TenSei Mods", "Telegram Automation Bot", "Android APK wrappers"],
-        learning: ["Data Analytics", "ML", "Kernel development"]
-    },
-    os: ["Android (obviously)", "Linux"],
+    builds: ["Android Apps", "Telegram Bots", "Auto Scripts"],
+    mods: ["Any Android App", "System UI", "Launchers", "Custom ROMs"],
+    fixes: ["ROM bugs", "HWC issues", "Kernel patches", "Display stack"],
+    tools: ["Python", "Java", "Bash", "Smali", "JavaScript", "C++"],
     motto: "If it has a system, it can be modded."
 };
