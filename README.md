@@ -2,7 +2,7 @@
   <img width="280" src="https://raw.githubusercontent.com/Koustubh12345/Koustubh12345/main/luffy.gif"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=89DCEB&center=true&repeat=false&width=650&height=60&lines=Yo.+I'm+Koustubh+%E2%80%94+I+mod+things+that+shouldn't+be+modded." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=89DCEB&center=true&repeat=false&width=600&height=60&lines=Hey%2C+I'm+TenSei+%E2%80%94+I+mod+the+unmoddable." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -16,7 +16,8 @@
 ## 🔥 Who Am I
 
 ```javascript
-const Koustubh = {
+const TenSei = {
+    aka: "Koustubh Gaikwad",
     status: "Final-year CS undergrad @ VTU, Belagavi",
     by_day: "Writing code that barely works",
     by_night: "Porting ROMs and modding things that say 'do not modify'",
