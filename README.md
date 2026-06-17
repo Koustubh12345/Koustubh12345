@@ -17,7 +17,7 @@
 const TenSei = {
     builds:  ["Android Apps", "Telegram Bots", "Auto Scripts"],
     mods:    ["System UI", "Launchers", "Any APK", "Custom ROMs"],
-    fixes:   ["ROM Bugs", "Kernel Patches", "HWC Issues"],
+    fixes:   ["ROM Bugs", "Kernel Patches"],
     stack:   ["Python", "Java", "Kotlin", "Bash", "Smali", "JS", "C++"],
 };
 
